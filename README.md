@@ -17,9 +17,7 @@ Provide business recommendations for improving revenue.
 Power BI → Data visualization and dashboard design
 Excel → Data preprocessing
 DAX → Calculated columns & measures for KPIs
-📂 Project Structure
 
-Blinkit-Sales-Analysis/ │── data/ # Raw dataset │── dashboard/ # Power BI dashboard file │── images/ # Dashboard screenshots │── README.md # Project documentation
 
 📈 Key Insights
 
@@ -38,3 +36,7 @@ blinkit dashboard
 Download the repository.
 Open blinkit.pbix in Power BI Desktop.
 Explore the interactive dashboard.
+🤝 Connect With Me
+
+🧑‍💻 Anshul Nimmala
+[GitHub] - https://github.com/AnshulNimmala003 [LinkedIn] - www.linkedin.com/in/anshul-nimmala
